@@ -5,7 +5,6 @@ module.exports = function reverse (n) {
       return parseInt(val);
   }
   else {
-    val = '-' + val;
     return parseInt(val);
   }
     
